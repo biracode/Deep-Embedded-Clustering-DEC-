@@ -1,7 +1,7 @@
 # Deep-Embedded-Clustering-DEC-
- - Implementation of DEC and IDEC (improved-DEC) on mnist dataset, based on the original public code.
+- Implementation of DEC and IDEC (improved-DEC) on mnist dataset, based on the original public code.
 
-The method discovers a latent representation of data points and then make cluster in this embedded space.
+- The method discovers a latent representation of data points and then make cluster in this embedded space.
 
 - Pre-training weights are available in the repository.
 
