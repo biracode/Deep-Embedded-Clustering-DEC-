@@ -1,6 +1,8 @@
 # Deep-Embedded-Clustering-DEC-
 Implementation of DEC and IDEC (improved-DEC) on mnist dataset, based on the original public code.
 
+Pre-training weights are available in the repository.
+
 At the end of the code there is an implementation of classical methods for clustering.
 
 References:
